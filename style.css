@@ -461,10 +461,6 @@ section.main {
         flex-direction: column;
         gap: 0.8rem;
     }
-
-    .robot-3d {
-        display: none;
-    }
 }
 
 @media (max-width: 480px) {
